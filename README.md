@@ -1,6 +1,4 @@
-Here’s a sample README.md file for your ShopNest Store Capstone project that you can upload to GitHub:
 
----
 
 # ShopNest Store Capstone
 
